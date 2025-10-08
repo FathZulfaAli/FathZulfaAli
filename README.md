@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI I have been working as a Fullstack Developer, <br>I have been working remotely as a freelancer. <br>I specialize in building web applications using Next.js, React, TypeScript, and JavaScript, <br>developing and integrating frontend components with seamless interaction with serverless functions.
+HI I have been working as a Fullstack Developer, <br>I have been working remotely as a freelancer. <br>I specialize in building web applications using React, TypeScript, and JavaScript, <br>developing and integrating frontend components with seamless interaction with serverless functions.
 
 
 ## 🌐 Socials:
